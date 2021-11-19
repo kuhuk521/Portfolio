@@ -1,0 +1,44 @@
+body{
+  background-color:#EDEDED;
+  font-family:'Montserrat',sans-serif;
+}
+
+/*LINKS
+a:link{
+  text-decoration: none;
+  color:#FEE533;
+}
+
+
+a:visited{
+  text-decoration: none;
+  color:#FEE533;
+}
+
+a:hover{
+  text-decoration: none;
+  color:#FEE533;
+}
+
+a:active{
+  text-decoration: none;
+  color:#FEE533;
+}
+/*LINKS*/
+
+
+.start{
+  background-image: url("https://i.pinimg.com/originals/9f/a0/d1/9fa0d14199ccd0f117c8c7cbaf26ebd3.png");
+ height: 100%;
+ width: 100%;
+ text-align:center;
+ padding:200px;
+}
+
+
+.first-heading{
+  color:#DA0037;
+  font-family:'Montserrat',sans-serif;
+  
+}
+
